@@ -1,0 +1,5 @@
+----- 1.0.0 (21/07/19) -----
+Initial release
+
+----- 1.0.1 (17/10/19) -----
+Add Premium Version URL
